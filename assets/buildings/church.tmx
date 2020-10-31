@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.4" orientation="orthogonal" renderorder="right-down" width="6" height="6" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <editorsettings>
+  <export target="slum/church.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" source="../../../../../../../Desktop/projectmute.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="6" height="6">
+  <data encoding="csv">
+76,78,78,78,78,80,
+108,110,3,3,110,112,
+108,110,3,3,110,112,
+108,3,3,3,3,112,
+108,110,3,3,110,112,
+108,110,3,3,110,112
+</data>
+ </layer>
+ <layer id="2" name="Tile Layer 2" width="6" height="6">
+  <data encoding="csv">
+0,0,0,0,0,0,
+0,0,0,0,0,0,
+0,0,0,0,0,0,
+0,0,0,0,0,0,
+0,0,0,0,0,0,
+134,133,104,104,150,149
+</data>
+ </layer>
+ <layer id="3" name="Tile Layer 3" width="6" height="6">
+  <data encoding="csv">
+0,0,0,0,0,0,
+0,0,0,0,0,0,
+0,127,0,0,0,0,
+0,0,0,0,0,0,
+0,0,0,0,0,0,
+0,0,0,0,140,0
+</data>
+ </layer>
+</map>
