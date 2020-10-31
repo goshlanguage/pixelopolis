@@ -1,4 +1,4 @@
-Pixelopoly
+Pixelopolis
 ===
 
 In an post-apocalyptic near future, you become mayor of an empty city block.
